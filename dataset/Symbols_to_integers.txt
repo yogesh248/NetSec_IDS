@@ -1,5 +1,11 @@
 Column-2:
 
+tcp=0
+udp=1
+icmp=2
+
+Column-3:
+
 ftp_data=1
 other=2
 private=3
@@ -71,7 +77,7 @@ tftp_u=68
 harvest=69
 smtp=70
 
-Column-3:
+Column-4:
 
 SF=1
 S0=2
@@ -110,3 +116,20 @@ land=19
 loadmodule=20
 spy=21
 perl=22
+saint=23
+mscan=24
+apache2=25
+snmpgetattack=26
+processtable=27
+httptunnel=28
+ps=29
+snmpguess=30
+mailbomb=31
+named=32
+sendmail=33
+xterm=34
+worm=35
+xlock=36
+xsnoop=37
+sqlattack=38
+udpstorm=39
